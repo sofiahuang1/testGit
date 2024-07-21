@@ -1,5 +1,3 @@
 class AppConstants {
-  static const String appName = 'Funciona';
-
-  AppConstants._();
+  static const String appName = 'Nasa';
 }
